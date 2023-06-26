@@ -1,3 +1,3 @@
-module sunglim.github.com/indicator
+module github.com/sunglim/indicator
 
 go 1.19
