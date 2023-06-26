@@ -1,0 +1,4 @@
+package indicators
+
+func main() {
+}
